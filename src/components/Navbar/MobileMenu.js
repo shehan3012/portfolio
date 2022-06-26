@@ -29,11 +29,9 @@ const MobileMenu = ({ isOpen, toggle }) => {
         <MobileMenuLink to="about" onClick={toggle}>
           About
         </MobileMenuLink>
-        <MobileMenuLink to="playground" onClick={toggle}>
-          Playground
-        </MobileMenuLink>
+       
         <MobileButton
-          href="mailto:jerichobantiquete@gmail.com "
+          href="mailto:shettyshehan@gmail.com "
           target="_blank"
           rel="noreferrer"
         >
@@ -55,14 +53,14 @@ const MobileMenu = ({ isOpen, toggle }) => {
       </MobileMenuList>
       <MobileSocials>
         <MobileSocial
-          href="mailto:jerichobantiquete@gmail.com"
+          href="mailto:shettyshehan@gmail.com"
           target="_blank"
           rel="noopener noreferrer"
         >
           Gm
         </MobileSocial>
         <MobileSocial
-          href="https://github.com/monciego"
+          href="https://github.com/shehan3012"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -70,14 +68,14 @@ const MobileMenu = ({ isOpen, toggle }) => {
         </MobileSocial>
 
         <MobileSocial
-          href="https://www.linkedin.com/in/jericho-bantiquete-450541179/"
+          href="https://www.linkedin.com/in/shehan-shetty-32a710145/"
           target="_blank"
           rel="noopener noreferrer"
         >
           ln
         </MobileSocial>
       </MobileSocials>
-      <MobileQuote>travaille pour ça</MobileQuote>
+      <MobileQuote>Contact ME</MobileQuote>
     </MobileMenuContainer>
   );
 };
