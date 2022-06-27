@@ -28,7 +28,7 @@ const About = () => {
           I'm a post-graduate student at the University of Paderborn pursuing my Master in Computer Science. I have a good background in web development and have some professional experience in the same. With a broad set of skills and still learning, I'm looking for exciting opportunities.
           </StyledParagraph>
           <StyledParagraph>
-            I love to design and create responsive websites or web apps from
+            I love to design and create responsive websites or web apps 
             . The technologies, tools and languages I am using to build
             my projects are HTML, CSS, JavaScript, REACT JS. I also have professional experience in Vuejs and Django Framework
           </StyledParagraph>

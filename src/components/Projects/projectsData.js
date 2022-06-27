@@ -23,13 +23,13 @@ export const projectData = [
     id: 3,
     image: project3,
     title: "Portfolio Website",
-    codeLink: "",
+    codeLink: "https://portfolio-shehan3012.vercel.app/",
   },
   {
     id: 4,
     image: project4,
-    title: "Coming SOOON !!!!",
-    codeLink: "",
+    title: "Beer Shop ",
+    codeLink: "https://beershop.vercel.app/",
   },
 
 
